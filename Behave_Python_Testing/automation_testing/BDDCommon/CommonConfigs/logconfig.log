@@ -1,0 +1,23 @@
+2022-02-14 10:37:01,429 CRITICAL This is a critical level msg!
+2022-02-14 10:37:01,429 ERROR    This is a error level msg!
+2022-02-14 10:37:01,429 WARNING  This is a warning level msg!
+2022-02-14 10:37:01,429 INFO     This is a info level msg!
+2022-02-14 10:37:01,429 DEBUG    This is a debug level msg!
+2022-02-14 10:37:13,163 DEBUG    format 'I go to the site "{site}"' -> 'I go to the site "(?P<site>.+?)"'
+2022-02-14 10:37:13,178 DEBUG    format 'I go to the page "{Home_Page}"' -> 'I go to the page "(?P<Home_Page>.+?)"'
+2022-02-14 10:37:13,178 DEBUG    format 'Choose the different frames from the given options and Check if the Add_to_Cart Button is enabled / disabled' -> 'Choose the different frames from the given options and Check if the Add_to_Cart Button is enabled / disabled'
+2022-02-14 10:37:13,178 DEBUG    format 'Click on Room preview option' -> 'Click on Room preview option'
+2022-02-14 10:37:13,178 DEBUG    format 'I change the wall colour' -> 'I change the wall colour'
+2022-02-14 10:37:13,178 DEBUG    format 'Move the picture to the desired position on the wall' -> 'Move the picture to the desired position on the wall'
+2022-02-14 10:37:13,178 DEBUG    format 'Select the frame' -> 'Select the frame'
+2022-02-14 10:37:13,178 DEBUG    format 'Click on "{room_type}" and Assert wall colour,picture position,frame design remain same' -> 'Click on "(?P<room_type>.+?)" and Assert wall colour,picture position,frame design remain same'
+2022-02-14 10:37:13,178 DEBUG    format 'the page title should be "{expected_title}"' -> 'the page title should be "(?P<expected_title>.+?)"'
+2022-02-14 10:37:13,178 DEBUG    format 'current url should be "{expected_url}"' -> 'current url should be "(?P<expected_url>.+?)"'
+2022-02-14 10:37:13,178 DEBUG    format 'I can reach the home page of "{site}"' -> 'I can reach the home page of "(?P<site>.+?)"'
+2022-02-14 10:37:13,178 DEBUG    format 'Take screenshot' -> 'Take screenshot'
+2022-02-14 10:37:21,006 DEBUG    format 'Login with the "{username}" and "{password}"' -> 'Login with the "(?P<username>.+?)" and "(?P<password>.+?)"'
+2022-02-14 10:37:21,006 DEBUG    format 'Verify "{app_name}" is present in  the installed apps, if not present, search and install "{app_name}"' -> 'Verify "(?P<app_name>.+?)" is present in  the installed apps, if not present, search and install "(?P=app_name)"'
+2022-02-14 10:37:21,006 DEBUG    format 'Select the app "{app_name}" and activate Livevue' -> 'Select the app "(?P<app_name>.+?)" and activate Livevue'
+2022-02-14 10:37:21,006 DEBUG    format 'Explore free themes and choose "{theme}"' -> 'Explore free themes and choose "(?P<theme>.+?)"'
+2022-02-14 10:37:21,006 DEBUG    format 'Get temporary email id and go to "{site}",Create an account with the temp_email_id' -> 'Get temporary email id and go to "(?P<site>.+?)",Create an account with the temp_email_id'
+2022-02-14 10:37:22,928 INFO     This is a info message
